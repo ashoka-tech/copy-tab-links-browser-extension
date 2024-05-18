@@ -1,4 +1,7 @@
 # Copy Open Tab Links in HTML - Browser Extension (currently only Chrome)
+
+TL;DR: I have privacy concerns to use 3rd party extensions for simple needs; created one myself.
+
 ## What
 Copies the titles and URLs of all open tabs in the current browser window to the clipboard in HTML format.
 
